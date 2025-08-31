@@ -1,5 +1,13 @@
 ==================================================================================================
 
+This site template was taken from a free template site, and I sincerely thank Luther and the 
+site responsible for uploading and making it free. I have attached the README file from Luther
+to acknowledge his work and to let everyone who sees this know my appreciation.
+
+Thank you.
+
+LUTHER's Readme file :
+
 DESCRIPTION:
 
 LUTHER is a modern, stylish, free personal website template designed for creative individuals 
@@ -128,5 +136,6 @@ Javascript Files:
 
 
 Thanks for downloading from Styleshout :)
+
 
 
